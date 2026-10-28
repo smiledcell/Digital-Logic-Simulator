@@ -1,1 +1,1 @@
-The game has three rounds.
+The game has four rounds.
