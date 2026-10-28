@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(200, 200, 200);
+}
+
+canvas {
+    display: flex;
+    margin: 10;
+    padding: 0;
+    position: absolute;
+    top: -10;
+    left: -10;
+    background-color: rgb(200, 200, 200);
+    
+}
